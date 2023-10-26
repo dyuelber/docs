@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.layout {
+  margin: auto;
+}
+
+.nav-bar {
+  margin: 2vh 0px 2vh 0;
+  background-color: aliceblue;
+  padding: 5vh;
+}
+
+.back {
+  background-color: #61dafb;
+}
